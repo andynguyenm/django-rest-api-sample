@@ -1,0 +1,1 @@
+A simple demo Django REST Api using <a href="http://www.django-rest-framework.org/">rest_framework</a>
